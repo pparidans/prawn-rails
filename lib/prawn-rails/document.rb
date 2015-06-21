@@ -1,5 +1,4 @@
 require 'prawn'
-require 'prawn/table'
 require "prawn-rails/extension"
 
 module PrawnRails
